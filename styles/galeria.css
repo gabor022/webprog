@@ -1,0 +1,4 @@
+div#galeria {margin: 0 auto; width: 620px;}
+div.kep { display: inline-block; }
+div.kep img { width: 200px; }
+label { display: block; }
